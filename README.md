@@ -53,7 +53,7 @@
         <a href="https://github.com/AnastasiiaKim1996">
             <img src="https://avatars.githubusercontent.com/u/96750008?v=4" width="100;" alt="Anastasiia"/>
             <br />
-            <sub><b>Anastasiia Maslak</b></sub>
+            <sub><b>Anastasiia Maslak 😂</b></sub>
         </a>
     </td>
     <td align="center">
