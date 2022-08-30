@@ -15,9 +15,6 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/masiuk-mykola/team-project-filmoteka?style=flat-square)
 ![GitHub contributors](https://img.shields.io/github/contributors/masiuk-mykola/team-project-filmoteka?style=flat-square)
 
-![Deploy](https://github.com/Searge/filmoteka/workflows/Build-n-Deploy/badge.svg?branch=main&style=flat-square)
-[![w3c](https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Fsearge.pp.ua%2Ffilmoteka%2F)](https://validator.w3.org/nu/?showsource=yes&showoutline=yes&doc=https%3A%2F%2Fsearge.pp.ua%2Ffilmoteka%2F)
-
 ### Technologies
 
 - Mobile-First
@@ -27,7 +24,7 @@
 - Animations for decorative elements
 - Axios
 - Notiflix
-- TUI Pagination
+- Pagination
 - Github Actions
 
 ### Contributors
@@ -105,16 +102,9 @@
 
 ### Bots
 
-<!-- readme: bots,ImgBotApp -start -->
+<!-- readme: bots -start -->
 <table>
 <tr>
-    <td align="center">
-        <a href="https://github.com/mergify[bot]">
-            <img src="https://avatars.githubusercontent.com/in/10562?v=4" width="100;" alt="mergify[bot]"/>
-            <br />
-            <sub><b>mergify[bot]</b></sub>
-        </a>
-    </td>
     <td align="center">
         <a href="https://github.com/github-actions[bot]">
             <img src="https://avatars.githubusercontent.com/in/15368?v=4" width="100;" alt="github-actions[bot]"/>
@@ -122,13 +112,7 @@
             <sub><b>github-actions[bot]</b></sub>
         </a>
     </td>
-    <td align="center">
-        <a href="https://github.com/imgbotapp">
-            <img src="https://avatars.githubusercontent.com/u/31427850?v=4" width="100;" alt="imgbotapp"/>
-            <br />
-            <sub><b>Imgbot</b></sub>
-        </a>
-    </td></tr>
+    </tr>
 </table>
 <!-- readme: bots,ImgBotApp -end -->
 <!-- markdownlint-restore -->
