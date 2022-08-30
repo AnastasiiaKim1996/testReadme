@@ -39,42 +39,42 @@
         <a href="https://github.com/masiuk-mykola">
             <img src="https://avatars.githubusercontent.com/u/50314811?v=4" width="100;" alt="masiuk-mykola"/>
             <br />
-            <sub><b>Mykola Masiuk</b></sub>
+            <sub><b>Mykola Masiuk 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/AnastasiyaSeroshtan">
             <img src="https://avatars.githubusercontent.com/u/97408274?v=4" width="100;" alt="AnastasiyaSeroshtan"/>
             <br />
-            <sub><b>Anastasiia Seroshtan</b></sub>
+            <sub><b>Anastasiia Seroshtan 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/AnastasiiaKim1996">
             <img src="https://avatars.githubusercontent.com/u/96750008?v=4" width="100;" alt="Anastasiia"/>
             <br />
-            <sub><b>Anastasiia Maslak 😂</b></sub>
+            <sub><b>Anastasiia Maslak 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/BlackInHUB">
             <img src="https://avatars.githubusercontent.com/u/96769199?v=4" width="100;" alt="BlackInHUB"/>
             <br />
-            <sub><b>Andrii Kulyk</b></sub>
+            <sub><b>Andrii Kulyk 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Dmitry-Natalchuk">
             <img src="https://avatars.githubusercontent.com/u/95769351?v=4" width="100;" alt="Dmitry-Natalchuk"/>
             <br />
-            <sub><b>Dmytro Natalchuk</b></sub>
+            <sub><b>Dmytro Natalchuk 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/Maryna-Korbet">
             <img src="https://avatars.githubusercontent.com/u/97749149?v=4" width="100;" alt="Maryna-Korbet"/>
             <br />
-            <sub><b>Maryna Korbet</b></sub>
+            <sub><b>Maryna Korbet 🟨🟦</b></sub>
         </a>
     </td></tr>
 <tr>
@@ -82,21 +82,21 @@
         <a href="https://github.com/Oleh-Lavreniuk">
             <img src="https://avatars.githubusercontent.com/u/98620588?v=4" width="100;" alt="Oleh-Lavreniuk"/>
             <br />
-            <sub><b>Oleh Lavreniuk</b></sub>
+            <sub><b>Oleh Lavreniuk 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/uliasuprun">
             <img src="https://avatars.githubusercontent.com/u/95654729?v=4" width="100;" alt="uliasuprun"/>
             <br />
-            <sub><b>Yuliia Suprun</b></sub>
+            <sub><b>Yuliia Suprun 🟨🟦</b></sub>
         </a>
     </td>
     <td align="center">
         <a href="https://github.com/VictorSelischev">
             <img src="https://avatars.githubusercontent.com/u/95778687?v=4" width="100;" alt="VictorSelischev"/>
             <br />
-            <sub><b>Viktor Selyschev</b></sub>
+            <sub><b>Viktor Selyschev 🟨🟦</b></sub>
         </a>
     </td></tr>
 </table>
