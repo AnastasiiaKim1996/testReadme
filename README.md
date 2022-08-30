@@ -40,6 +40,7 @@
             <img src="https://avatars.githubusercontent.com/u/50314811?v=4" width="100;" alt="masiuk-mykola"/>
             <br />
             <sub><b>Mykola Masiuk</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
@@ -48,6 +49,7 @@
             <img src="https://avatars.githubusercontent.com/u/97408274?v=4" width="100;" alt="AnastasiyaSeroshtan"/>
             <br />
             <sub><b>Anastasiia Seroshtan</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
@@ -56,6 +58,7 @@
             <img src="https://avatars.githubusercontent.com/u/96750008?v=4" width="100;" alt="Anastasiia"/>
             <br />
             <sub><b>Anastasiia Maslak</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
@@ -64,6 +67,7 @@
             <img src="https://avatars.githubusercontent.com/u/96769199?v=4" width="100;" alt="BlackInHUB"/>
             <br />
             <sub><b>Andrii Kulyk</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
@@ -72,6 +76,7 @@
             <img src="https://avatars.githubusercontent.com/u/95769351?v=4" width="100;" alt="Dmitry-Natalchuk"/>
             <br />
             <sub><b>Dmytro Natalchuk</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
@@ -80,6 +85,7 @@
             <img src="https://avatars.githubusercontent.com/u/97749149?v=4" width="100;" alt="Maryna-Korbet"/>
             <br />
             <sub><b>Maryna Korbet</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td></tr>
@@ -89,6 +95,7 @@
             <img src="https://avatars.githubusercontent.com/u/98620588?v=4" width="100;" alt="Oleh-Lavreniuk"/>
             <br />   
             <sub><b>Oleh Lavreniuk</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
