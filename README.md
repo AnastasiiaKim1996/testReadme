@@ -97,6 +97,7 @@
             <img src="https://avatars.githubusercontent.com/u/95654729?v=4" width="100;" alt="uliasuprun"/>
             <br />
             <sub><b>Yuliia Suprun</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td>
@@ -105,6 +106,7 @@
             <img src="https://avatars.githubusercontent.com/u/95778687?v=4" width="100;" alt="VictorSelischev"/>
             <br />
             <sub><b>Viktor Selyschev</b></sub>
+            <br />
             <sub><b>🟨🟦</b></sub>
         </a>
     </td></tr>
